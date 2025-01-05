@@ -21,9 +21,11 @@ Explore the features below and start taking action for a greener tomorrow!
 
 ---
 
-## 🌍 About
+## 🌍 About Green Path Website
 
-Green Path is on a mission to make sustainability accessible and easy for everyone. Our app helps individuals and communities reduce their ecological footprint by providing real-time tools to assess carbon emissions, track water and energy consumption, and guide sustainable waste practices. By helping users make informed choices, we're building a cleaner, greener world for all! 🌍💚
+The **Green Path Website** is your one-stop resource to learn about the **Green Path app**, an innovative platform that empowers individuals and communities to take actionable steps toward a more sustainable future. This website provides information on the various tools, features, and functionalities of the **Green Path app**, including how it can help users track their carbon footprint, monitor energy and water consumption, and guide eco-friendly waste management practices.
+
+Explore the full range of sustainable solutions and discover how **Green Path** is making a difference in creating a cleaner, greener world for everyone! 🌍💚
 
 ---
 
@@ -35,31 +37,8 @@ For all updates and to be part of the development journey, check out the project
 
 ---
 
-## ⚙️ Installation & Setup
-
-To run **Green Path** locally, follow these simple steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/AstroTech-666/web-app.git
-   ```
-
-2. Navigate into the project folder:
-   ```bash
-   cd green-path
-   ```
-
-3. Install required dependencies:
-   ```bash
-   npm install
-   ```
-
-4. Start the application:
-   ```bash
-   npm start
-   ```
-
-5. Open the app in your browser at `http://localhost:3000` to start exploring!
+## Website
+[Link](https://greenpathwebsite.netlify.app)
 
 ---
 
