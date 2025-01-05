@@ -1,6 +1,3 @@
-Here’s a tailored GitHub README for your Green Path website that includes the details you’ve shared:
-
-```markdown
 # Green Path - Sustainable Future App 🌱📱
 
 Welcome to **Green Path**, a revolutionary web application designed to empower communities to take action for a sustainable future! Through innovative tools and practical solutions, Green Path addresses environmental challenges like waste management, air quality, and resource conservation. Together, we can make a real difference in our world. 
